@@ -2,7 +2,7 @@
 
 PathFinder is a visualization tool for Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms, designed to help users understand how these algorithms navigate through graphs.
 
-### Live Link : 
+### Live Link : [link](https://chndrshp.github.io/path-finder/)
 
 ## Features
 
