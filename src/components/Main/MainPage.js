@@ -274,10 +274,18 @@ const MainPage = () => {
                         </Col>
                     </Row>
                 </div>
-            </div>
-
-
-
+                {/* Reset Button */}
+                <div className="p-3">
+                    <Row className="justify-content-center">
+                        <Col xs={12} className="text-center">
+                            <Button variant="danger" onClick={() => {
+                                setCubes(null);
+                                setCounter(0);
+                            }}>Reset</Button>
+                        </Col>
+                    </Row>
+                </div>
+            </div>      
     );
 
 }
